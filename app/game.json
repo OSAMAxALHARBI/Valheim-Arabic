@@ -1,0 +1,58 @@
+{
+ "id": "Valheim",
+ "exe_name": "ValheimArabic",
+ "github": "OSAMAxALHARBI/Valheim-Arabic",
+ "site_url": "https://iosamai.com/game.html?g=valheim",
+ "name": {
+  "ar": "فالهايم",
+  "en": "Valheim"
+ },
+ "platform": {
+  "ar": "ستيم",
+  "en": "PC (Steam)"
+ },
+ "backup_dir": "ValheimArabic-backup",
+ "patch_root": "",
+ "steam_dir": "Valheim",
+ "must_have": [
+  "valheim.exe",
+  "valheim_Data/resources.assets"
+ ],
+ "close_processes": [
+  "valheim"
+ ],
+ "folder_label": {
+  "ar": "مجلد اللعبة (اللي فيه valheim.exe)",
+  "en": "Game folder (the one with valheim.exe)"
+ },
+ "folder_hint": {
+  "ar": "اختر مجلد Valheim في مكتبة ستيم، مثل steamapps\\common\\Valheim.",
+  "en": "Choose the Valheim folder in your Steam library, for example steamapps\\common\\Valheim."
+ },
+ "mismatch": {
+  "ar": "التعريب مسوّى لنسخة ستيم 1.0.20 (رقم البناء 25909357). حدّث اللعبة في ستيم، أو: خصائص اللعبة ← الملفات المثبتة ← التحقق من سلامة ملفات اللعبة، وبعدين ثبّت التعريب.",
+  "en": "The translation is made for Steam version 1.0.20 (build 25909357). Update the game in Steam, or: Properties > Installed Files > Verify integrity of game files, then install the translation."
+ },
+ "before": {
+  "ar": "سكّر اللعبة. التعريب يضيف العربية كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي.",
+  "en": "Close the game. The translation adds Arabic as a new language; English and the other languages stay as they are."
+ },
+ "requirements": [
+  {
+   "ar": "نسخة ستيم من اللعبة، الإصدار 1.0.20 (رقم البناء 25909357).",
+   "en": "The Steam version of the game, version 1.0.20 (build 25909357)."
+  }
+ ],
+ "links": [],
+ "after_install": [
+  {
+   "ar": "شغّل اللعبة: «Settings» ← «Gameplay» ← «Language» ← «العربية».",
+   "en": "Start the game: Settings > Gameplay > Language > العربية."
+  },
+  {
+   "ar": "إذا حدّثت ستيم اللعبة، افتح هذا البرنامج وثبّت التعريب مرة ثانية (بعد ما ينزل تحديث للتعريب).",
+   "en": "If Steam updates the game, open this program and install the translation again (once an updated translation is out)."
+  }
+ ],
+ "version": "1.0"
+}
