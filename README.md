@@ -6,6 +6,8 @@
 
 التعريب ما يحتوي أي ملف من ملفات اللعبة. البرنامج يعدّل ملفات اللعبة اللي عندك أنت ويحفظ نسخة من الأصلية.
 
+🌐 **صفحة التعريب على موقعي:** [iosamai.com/valheim](https://iosamai.com/valheim/) · كل تعريباتي: [iosamai.com](https://iosamai.com/)
+
 ## اللي تحتاجه
 
 1. نسخة ستيم من Valheim، **الإصدار 1.0.20** (رقم البناء 25909357).
@@ -37,6 +39,8 @@
 Complete Arabic translation of Valheim (Steam version 1.0.20): menus, items, building, quests, dialogue, tips, lore,
 titles, the intro and ending subtitles. Arabic is added as a new language;
 English and the other languages stay as they are.
+
+🌐 **Translation page:** [iosamai.com/en/valheim](https://iosamai.com/en/valheim/) · all my translations: [iosamai.com/en](https://iosamai.com/en/)
 
 No game file is included. The program patches the game files of your own copy and keeps a backup of the originals.
 
