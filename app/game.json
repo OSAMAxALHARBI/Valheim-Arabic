@@ -30,8 +30,8 @@
   "en": "Choose the Valheim folder in your Steam library, for example steamapps\\common\\Valheim."
  },
  "mismatch": {
-  "ar": "التعريب مسوّى لنسخة ستيم 1.0.20 (رقم البناء 25909357). حدّث اللعبة في ستيم، أو: خصائص اللعبة ← الملفات المثبتة ← التحقق من سلامة ملفات اللعبة، وبعدين ثبّت التعريب.",
-  "en": "The translation is made for Steam version 1.0.20 (build 25909357). Update the game in Steam, or: Properties > Installed Files > Verify integrity of game files, then install the translation."
+  "ar": "التعريب مسوّى لنسخة ستيم 1.0.21 (رقم البناء 26249040). حدّث اللعبة في ستيم، أو: خصائص اللعبة ← الملفات المثبتة ← التحقق من سلامة ملفات اللعبة، وبعدين ثبّت التعريب.",
+  "en": "The translation is made for Steam version 1.0.21 (build 26249040). Update the game in Steam, or: Properties > Installed Files > Verify integrity of game files, then install the translation."
  },
  "before": {
   "ar": "سكّر اللعبة. التعريب يضيف العربية كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي.",
@@ -39,8 +39,8 @@
  },
  "requirements": [
   {
-   "ar": "نسخة ستيم من اللعبة، الإصدار 1.0.20 (رقم البناء 25909357).",
-   "en": "The Steam version of the game, version 1.0.20 (build 25909357)."
+   "ar": "نسخة ستيم من اللعبة، الإصدار 1.0.21 (رقم البناء 26249040).",
+   "en": "The Steam version of the game, version 1.0.21 (build 26249040)."
   }
  ],
  "links": [],

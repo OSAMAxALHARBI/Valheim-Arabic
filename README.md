@@ -2,7 +2,7 @@
 
 <div dir="rtl">
 
-تعريب كامل لـ Valheim (نسخة ستيم 1.0.20): القوائم والأدوات والبناء والمهام والحوارات والنصائح والحكايات والألقاب، وترجمة مقدمة ونهاية اللعبة. العربية تنضاف كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي.
+تعريب كامل لـ Valheim (نسخة ستيم 1.0.21): القوائم والأدوات والبناء والمهام والحوارات والنصائح والحكايات والألقاب، وترجمة مقدمة ونهاية اللعبة. العربية تنضاف كلغة جديدة، والإنجليزية وباقي اللغات تبقى مثل ما هي.
 
 التعريب ما يحتوي أي ملف من ملفات اللعبة. البرنامج يعدّل ملفات اللعبة اللي عندك أنت ويحفظ نسخة من الأصلية.
 
@@ -10,7 +10,7 @@
 
 ## اللي تحتاجه
 
-1. نسخة ستيم من Valheim، **الإصدار 1.0.20** (رقم البناء 25909357).
+1. نسخة ستيم من Valheim، **الإصدار 1.0.21** (رقم البناء 26249040).
 2. حوالي 2 جيجا مساحة فاضية (نسخة احتياطية من الملفات الأصلية).
 
 ## الخطوات
@@ -36,7 +36,7 @@
 
 ## English
 
-Complete Arabic translation of Valheim (Steam version 1.0.20): menus, items, building, quests, dialogue, tips, lore,
+Complete Arabic translation of Valheim (Steam version 1.0.21): menus, items, building, quests, dialogue, tips, lore,
 titles, the intro and ending subtitles. Arabic is added as a new language;
 English and the other languages stay as they are.
 
@@ -46,7 +46,7 @@ No game file is included. The program patches the game files of your own copy an
 
 ### What you need
 
-1. The Steam version of Valheim, **version 1.0.20** (build 25909357).
+1. The Steam version of Valheim, **version 1.0.21** (build 26249040).
 2. About 2 GB free (backup of the original files).
 
 ### Steps
